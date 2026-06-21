@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: module4.MyServiceTest
+Test set: module4.VerifyInteractionTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s -- in module4.MyServiceTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.713 s -- in module4.VerifyInteractionTest
